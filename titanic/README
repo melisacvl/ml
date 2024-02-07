@@ -1,0 +1,1 @@
+This is a machine learning project that predicts, with a final accuracy of 0.869 whether or not a passenger on the titanic would have survived according to age, gender, class, etc. Data set taken from kaggle.com. Written on Jupiter Notebook, by Melisa Civelekoglu.
